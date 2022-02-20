@@ -42,7 +42,7 @@ function Education() {
         </div>
         <div className=' mr-5 mt-3 container'>
           <div className=" row">
-            <div data-aos="fade-up" className={state ? " p-3 mb-2 bg-info  col-sm-8 d-flex justify-content-between mx-auto":"bg p-3 mb-2 col-sm-8 d-flex justify-content-between mx-auto"} >
+            <div  className={state ? " p-3 mb-2 bg-info  col-sm-8 d-flex justify-content-between mx-auto":"bg p-3 mb-2 col-sm-8 d-flex justify-content-between mx-auto"} >
               <h3>Bachelor Of Coumputing System (Software Development)</h3>
               {/* <i className='fas fa-plus'></i> */}
 
@@ -74,7 +74,7 @@ function Education() {
 
         <div className=' mr-5 mt-3 container'>
           <div className=" row">
-            <div data-aos="fade-up" className={change?"p-3 mb-2 bg-info  col-sm-8 mx-auto d-flex justify-content-between":"p-3 mb-2 bg  col-sm-8 mx-auto d-flex justify-content-between"}>
+            <div  className={change?"p-3 mb-2 bg-info  col-sm-8 mx-auto d-flex justify-content-between":"p-3 mb-2 bg  col-sm-8 mx-auto d-flex justify-content-between"}>
               <h3>Certificate in Information Technology </h3>
               <div className="plus" onClick={chang}>
                 {change ? <span><i className='fas fa-minus'></i></span>:
@@ -101,7 +101,7 @@ function Education() {
 
         <div className=' mr-5 mt-3 container'>
           <div className=" row">
-            <div data-aos="fade-up" className={click?"p-3 mb-2 bg-info  col-sm-8 mx-auto d-flex justify-content-between":"p-3 mb-2 bg  col-sm-8 mx-auto d-flex justify-content-between"}>
+            <div  className={click?"p-3 mb-2 bg-info  col-sm-8 mx-auto d-flex justify-content-between":"p-3 mb-2 bg  col-sm-8 mx-auto d-flex justify-content-between"}>
               <h3>High School Secondary Education</h3>
               <div className="plus" onClick={lick}>
                 {click ? <span><i className='fas fa-minus'></i></span>:
