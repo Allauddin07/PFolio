@@ -43,25 +43,25 @@ function Skill() {
            <h3 className='mt-2 wh'>JavaScript.JS</h3></div></div>
          </div>
          <div className="row">
-           <div className="col-md-4"><div data-aos="fade-right" className="item skill-d express d-flex flex-column align-items-center"><h3 className=' mb-5  wh' >95%</h3>
+           <div className="col-md-4"><div data-aos="zoom-out" className="item skill-d express d-flex flex-column align-items-center"><h3 className=' mb-5  wh' >95%</h3>
            
            <h3 className='mt-2 wh'>Express.JS</h3></div></div>
-           <div className="col-md-4"><div data-aos="fade-right" className="item skill-d python  d-flex flex-column align-items-center"><h3 className='  mb-5 wh' >90%</h3>
+           <div className="col-md-4"><div data-aos="zoom-out" className="item skill-d python  d-flex flex-column align-items-center"><h3 className='  mb-5 wh' >90%</h3>
            
            <h3 className='mt-2 wh'>Pytho</h3></div></div>
-           <div className="col-md-4"><div data-aos="fade-right" className="item skill-d django react d-flex flex-column align-items-center"><h3 className='  mb-5 wh' >95%</h3>
+           <div className="col-md-4"><div data-aos="zoom-out" className="item skill-d django react d-flex flex-column align-items-center"><h3 className='  mb-5 wh' >95%</h3>
            
            <h3 className='mt-2 wh'> Django</h3></div></div>
          </div>
 
          <div className="row">
-           <div className="col-md-4"><div data-aos="fade-left" className="item skill-d ract sql d-flex flex-column align-items-center"><h3 className='  mb-5 wh' >90%</h3>
+           <div className="col-md-4"><div data-aos="zoom-out" className="item skill-d ract sql d-flex flex-column align-items-center"><h3 className='  mb-5 wh' >90%</h3>
            
            <h3 className='mt-2  wh'>SQL/MySQL</h3></div></div>
-           <div className="col-md-4"><div data-aos="fade-left" className="item skill-d react mongo d-flex flex-column align-items-center"><h3 className=' mb-5  wh' >80%</h3>
+           <div className="col-md-4"><div data-aos="zoom-out" className="item skill-d react mongo d-flex flex-column align-items-center"><h3 className=' mb-5  wh' >80%</h3>
            
            <h3 className='mt-2 wh'>MongoDB</h3></div></div>
-           <div className="col-md-4"><div data-aos="fade-left" className="item skill-d git express d-flex flex-column align-items-center"><h3 className=' mb-5  wh' >90%</h3>
+           <div className="col-md-4"><div data-aos="zoom-out" className="item skill-d git express d-flex flex-column align-items-center"><h3 className=' mb-5  wh' >90%</h3>
            
            <h3 className='mt-2 wh'>GitHub/git</h3></div></div>
          </div>

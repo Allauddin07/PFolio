@@ -92,7 +92,7 @@ function Contact() {
               </div>
             </div>
           </div>
-          <div data-aos="fade-up" className="col-md-6">
+          <div data-aos="zoom-out" className="col-md-6">
 
 
             <form onSubmit={sendEmail} className='contact_form_class'>
